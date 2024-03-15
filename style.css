@@ -1,0 +1,62 @@
+#merah{
+ color: red;
+}
+
+.square{
+    background-color: red;
+    display: flex;
+    width: 200px;
+    height: 200px;
+}
+
+#green{
+    color: green;
+}
+
+.green{
+    background-color: green;
+    display: flex;
+    width: 200px;
+    height: 200px;
+}
+
+#violet{
+    color: violet;
+}
+
+.violet{
+    background-color: violet;
+    display: flex;
+    width: 200px;
+    height: 200px;
+}
+
+#yellow{
+    color: yellow;
+}
+
+.yellow{
+    background-color: yellow;
+    display: flex;
+    width: 200px;
+    height: 200px;
+}
+
+li[value = "5"]{
+    color: aqua;
+}
+
+.aqua{
+    background-color: aqua;
+    display: flex;
+    width: 200px;
+    height: 200px;
+}
+
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style:italic ;}
+
+h1{
+    color: blue;
+}
